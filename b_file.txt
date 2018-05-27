@@ -2,8 +2,8 @@ string 1
 string 2
 string 3
 string 4
-string 5
-string 6 ch in k50c
+string 5 ch on DZ77
+string 6 ch on k50c
 string 7
 string 8
 string 9
